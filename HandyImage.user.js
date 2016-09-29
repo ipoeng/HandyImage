@@ -1726,7 +1726,7 @@ function makeworld()
 	case "imgpaying.com":
 	case "picexposed.com":
 	case "imgtrex.com":
-		i = q('img[src*="/img/"]');
+		i = q('img[src*="/i/"]');
 		break;
 	case "imagenetz.de":
 		i = q('img[src*="/img"]');
